@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F70000,100:8B0000&height=120&section=header" width="100%" alt="" />
+</div>
+
+<div align="center">
 
 # Amr Eldhshan
 
@@ -159,28 +163,35 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
----
+**Offensive & Web Security**
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-5C2D91?style=flat-square)
+![Reconnaissance](https://img.shields.io/badge/Reconnaissance-5C2D91?style=flat-square)
+![Automated Recon](https://img.shields.io/badge/Automated_Recon-5C2D91?style=flat-square)
+![Exploitation](https://img.shields.io/badge/Exploitation-5C2D91?style=flat-square)
+![Post-Exploitation](https://img.shields.io/badge/Post--Exploitation-5C2D91?style=flat-square)
+![Payload Generation](https://img.shields.io/badge/Payload_Generation-5C2D91?style=flat-square)
+![Defense Evasion](https://img.shields.io/badge/Defense_Evasion-B71C1C?style=flat-square)
+![Sandbox Evasion](https://img.shields.io/badge/Sandbox_Evasion-B71C1C?style=flat-square)
+![Web Security](https://img.shields.io/badge/Web_Security-FF5722?style=flat-square)
+![OAuth Exploitation](https://img.shields.io/badge/OAuth_Exploitation-FF5722?style=flat-square)
+![XSS](https://img.shields.io/badge/XSS-FF5722?style=flat-square)
+![Server-side Vulnerabilities](https://img.shields.io/badge/Server--side_Vulnerabilities-FF5722?style=flat-square)
+![Asset Discovery](https://img.shields.io/badge/Asset_Discovery-1B5E20?style=flat-square)
 
-## 📊 Technical Expertise
+**Analysis & Forensics**
+![Behavioral Monitoring](https://img.shields.io/badge/Behavioral_Monitoring-990000?style=flat-square)
+![.NET RE](https://img.shields.io/badge/.NET_RE-990000?style=flat-square)
+![Windows Executables](https://img.shields.io/badge/Windows_Executables-990000?style=flat-square)
+![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-311B92?style=flat-square)
+![Protocol Analysis](https://img.shields.io/badge/Protocol_Analysis-311B92?style=flat-square)
+![Traffic Analysis](https://img.shields.io/badge/Traffic_Analysis-311B92?style=flat-square)
 
-| Area | What I do |
-|---|---|
-| 🔬 **Malware Analysis** | Static and dynamic analysis, behavioral monitoring, and sandbox evasion techniques |
-| ⚙️ **Reverse Engineering** | Windows executables, .NET, x86 / ARM assembly, deobfuscation, anti-analysis and anti-debugging bypass, mobile RE |
-| 🧬 **Memory & Kernel Forensics** | Memory forensics, kernel debugging, custom YARA rules |
-| 🛡️ **APT Operations** | Adversary emulation, MITRE ATT&CK implementation, and defense evasion techniques |
-| 🧪 **Security Tooling** | Custom exploit development, payload generation, and automated reconnaissance |
-| 🕸️ **Web Security** | OAuth exploitation, XSS chain development, and server-side vulnerability discovery |
-| 🗡️ **Penetration Testing** | Reconnaissance, vulnerability assessment, exploitation, post-exploitation, ethical hacking |
-| 🔎 **OSINT** | Subdomain and asset discovery, Shodan, Recon-ng, theHarvester, Amass |
-| 🚨 **SOC & Incident Response** | Log and alert analysis, phishing email analysis, threat intelligence, DFIR with the Cyber Kill Chain and Diamond Model |
-| 📡 **Network Forensics** | Packet capture and traffic analysis, protocol analysis, IDS/IPS rules and detection |
-| 🔥 **Network Security & Firewalls** | FortiGate / FortiManager, Palo Alto, IPsec and SSL VPN, SD-WAN, security policy design, threat protection, system hardening |
-| 🌐 **Networking** | Routing and switching (OSPF, EIGRP, NAT, VLANs, STP, QoS), WAN, wireless, enterprise networking, CCNA-level |
-| ☁️ **Cloud Security & Operations** | AWS (VPC networking, web servers, security and operations), Huawei Cloud fundamentals |
-| 🐧 **Linux & System Administration** | RHEL / Fedora administration, scripting, storage and LVM, file systems, ACLs, SELinux, firewall configuration, user management, containers |
-| 🧠 **Systems Programming** | Memory management, kernel interaction, and low-level network programming |
-| 🏁 **CTFs** | Reverse engineering, malware analysis, and network forensics challenges on TryHackMe, HackTheBox, PicoCTF and online competitions |
+**Systems Programming**
+![Memory Management](https://img.shields.io/badge/Memory_Management-00599C?style=flat-square)
+![Kernel Interaction](https://img.shields.io/badge/Kernel_Interaction-00599C?style=flat-square)
+![Low-level Networking](https://img.shields.io/badge/Low--level_Networking-00599C?style=flat-square)
+![Linux Administration](https://img.shields.io/badge/Linux_Administration-555?style=flat-square)
+![Firewall Configuration](https://img.shields.io/badge/Firewall_Configuration-006064?style=flat-square)
 
 ---
 
@@ -204,4 +215,8 @@
 
 <div align="center">
 <p color="red">01011001 01101111 01110101 00100000 01100110 01101111 01110101 01101110 01100100 00100000 01101101 01100101 00101100 00100000 01110111 01101000 01100001 01110100 00100000 01101001 01110011 00100000 01101101 01111001 00100000 01110010 01100101 01100001 01101100 00100000 01101110 01100001 01101101 01100101</p>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:F70000&height=100&section=footer" width="100%" alt="" />
 </div>
