@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F70000,100:8B0000&height=120&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:003A8C&height=120&section=header" width="100%" alt="" />
 </div>
 
 <div align="center">
@@ -218,5 +218,5 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:F70000&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003A8C,100:0A84FF&height=100&section=footer" width="100%" alt="" />
 </div>
