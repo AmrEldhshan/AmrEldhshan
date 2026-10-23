@@ -10,29 +10,6 @@
 
 ---
 
-## 📊 Technical Expertise
-
-| Area | What I do |
-|---|---|
-| 🔬 **Malware Analysis** | Static and dynamic analysis, behavioral monitoring, and sandbox evasion techniques |
-| ⚙️ **Reverse Engineering** | Windows executables, .NET, x86 / ARM assembly, deobfuscation, anti-analysis and anti-debugging bypass, mobile RE |
-| 🧬 **Memory & Kernel Forensics** | Memory forensics, kernel debugging, custom YARA rules |
-| 🛡️ **APT Operations** | Adversary emulation, MITRE ATT&CK implementation, and defense evasion techniques |
-| 🧪 **Security Tooling** | Custom exploit development, payload generation, and automated reconnaissance |
-| 🕸️ **Web Security** | OAuth exploitation, XSS chain development, and server-side vulnerability discovery |
-| 🗡️ **Penetration Testing** | Reconnaissance, vulnerability assessment, exploitation, post-exploitation, ethical hacking |
-| 🔎 **OSINT** | Subdomain and asset discovery, Shodan, Recon-ng, theHarvester, Amass |
-| 🚨 **SOC & Incident Response** | Log and alert analysis, phishing email analysis, threat intelligence, DFIR with the Cyber Kill Chain and Diamond Model |
-| 📡 **Network Forensics** | Packet capture and traffic analysis, protocol analysis, IDS/IPS rules and detection |
-| 🔥 **Network Security & Firewalls** | FortiGate / FortiManager, Palo Alto, IPsec and SSL VPN, SD-WAN, security policy design, threat protection, system hardening |
-| 🌐 **Networking** | Routing and switching (OSPF, EIGRP, NAT, VLANs, STP, QoS), WAN, wireless, enterprise networking, CCNA-level |
-| ☁️ **Cloud Security & Operations** | AWS (VPC networking, web servers, security and operations), Huawei Cloud fundamentals |
-| 🐧 **Linux & System Administration** | RHEL / Fedora administration, scripting, storage and LVM, file systems, ACLs, SELinux, firewall configuration, user management, containers |
-| 🧠 **Systems Programming** | Memory management, kernel interaction, and low-level network programming |
-| 🏁 **CTFs** | Reverse engineering, malware analysis, and network forensics challenges on TryHackMe, HackTheBox, PicoCTF and online competitions |
-
----
-
 ## 🛠️ Skills
 
 **Security Specialties**
@@ -181,6 +158,29 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+---
+
+## 📊 Technical Expertise
+
+| Area | What I do |
+|---|---|
+| 🔬 **Malware Analysis** | Static and dynamic analysis, behavioral monitoring, and sandbox evasion techniques |
+| ⚙️ **Reverse Engineering** | Windows executables, .NET, x86 / ARM assembly, deobfuscation, anti-analysis and anti-debugging bypass, mobile RE |
+| 🧬 **Memory & Kernel Forensics** | Memory forensics, kernel debugging, custom YARA rules |
+| 🛡️ **APT Operations** | Adversary emulation, MITRE ATT&CK implementation, and defense evasion techniques |
+| 🧪 **Security Tooling** | Custom exploit development, payload generation, and automated reconnaissance |
+| 🕸️ **Web Security** | OAuth exploitation, XSS chain development, and server-side vulnerability discovery |
+| 🗡️ **Penetration Testing** | Reconnaissance, vulnerability assessment, exploitation, post-exploitation, ethical hacking |
+| 🔎 **OSINT** | Subdomain and asset discovery, Shodan, Recon-ng, theHarvester, Amass |
+| 🚨 **SOC & Incident Response** | Log and alert analysis, phishing email analysis, threat intelligence, DFIR with the Cyber Kill Chain and Diamond Model |
+| 📡 **Network Forensics** | Packet capture and traffic analysis, protocol analysis, IDS/IPS rules and detection |
+| 🔥 **Network Security & Firewalls** | FortiGate / FortiManager, Palo Alto, IPsec and SSL VPN, SD-WAN, security policy design, threat protection, system hardening |
+| 🌐 **Networking** | Routing and switching (OSPF, EIGRP, NAT, VLANs, STP, QoS), WAN, wireless, enterprise networking, CCNA-level |
+| ☁️ **Cloud Security & Operations** | AWS (VPC networking, web servers, security and operations), Huawei Cloud fundamentals |
+| 🐧 **Linux & System Administration** | RHEL / Fedora administration, scripting, storage and LVM, file systems, ACLs, SELinux, firewall configuration, user management, containers |
+| 🧠 **Systems Programming** | Memory management, kernel interaction, and low-level network programming |
+| 🏁 **CTFs** | Reverse engineering, malware analysis, and network forensics challenges on TryHackMe, HackTheBox, PicoCTF and online competitions |
 
 ---
 
