@@ -15,10 +15,21 @@
 | Area | What I do |
 |---|---|
 | 🔬 **Malware Analysis** | Static and dynamic analysis, behavioral monitoring, and sandbox evasion techniques |
+| ⚙️ **Reverse Engineering** | Windows executables, .NET, x86 / ARM assembly, deobfuscation, anti-analysis and anti-debugging bypass, mobile RE |
+| 🧬 **Memory & Kernel Forensics** | Memory forensics, kernel debugging, custom YARA rules |
 | 🛡️ **APT Operations** | Adversary emulation, MITRE ATT&CK implementation, and defense evasion techniques |
 | 🧪 **Security Tooling** | Custom exploit development, payload generation, and automated reconnaissance |
 | 🕸️ **Web Security** | OAuth exploitation, XSS chain development, and server-side vulnerability discovery |
+| 🗡️ **Penetration Testing** | Reconnaissance, vulnerability assessment, exploitation, post-exploitation, ethical hacking |
+| 🔎 **OSINT** | Subdomain and asset discovery, Shodan, Recon-ng, theHarvester, Amass |
+| 🚨 **SOC & Incident Response** | Log and alert analysis, phishing email analysis, threat intelligence, DFIR with the Cyber Kill Chain and Diamond Model |
+| 📡 **Network Forensics** | Packet capture and traffic analysis, protocol analysis, IDS/IPS rules and detection |
+| 🔥 **Network Security & Firewalls** | FortiGate / FortiManager, Palo Alto, IPsec and SSL VPN, SD-WAN, security policy design, threat protection, system hardening |
+| 🌐 **Networking** | Routing and switching (OSPF, EIGRP, NAT, VLANs, STP, QoS), WAN, wireless, enterprise networking, CCNA-level |
+| ☁️ **Cloud Security & Operations** | AWS (VPC networking, web servers, security and operations), Huawei Cloud fundamentals |
+| 🐧 **Linux & System Administration** | RHEL / Fedora administration, scripting, storage and LVM, file systems, ACLs, SELinux, firewall configuration, user management, containers |
 | 🧠 **Systems Programming** | Memory management, kernel interaction, and low-level network programming |
+| 🏁 **CTFs** | Reverse engineering, malware analysis, and network forensics challenges on TryHackMe, HackTheBox, PicoCTF and online competitions |
 
 ---
 
@@ -27,19 +38,29 @@
 **Security Specialties**
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-FF5722?style=flat-square)
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-990000?style=flat-square)
-![Exploit Development](https://img.shields.io/badge/Exploit_Development-5C2D91?style=flat-square)
-![Red Teaming](https://img.shields.io/badge/Red_Teaming-B71C1C?style=flat-square)
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-311B92?style=flat-square)
-![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-880E4F?style=flat-square)
-![Network Security](https://img.shields.io/badge/Network_Security-006064?style=flat-square)
-![OSINT](https://img.shields.io/badge/OSINT-1B5E20?style=flat-square)
+![Static Analysis](https://img.shields.io/badge/Static_Analysis-990000?style=flat-square)
+![Dynamic Analysis](https://img.shields.io/badge/Dynamic_Analysis-990000?style=flat-square)
 ![Memory Forensics](https://img.shields.io/badge/Memory_Forensics-990000?style=flat-square)
+![Kernel Debugging](https://img.shields.io/badge/Kernel_Debugging-990000?style=flat-square)
 ![Deobfuscation](https://img.shields.io/badge/Deobfuscation-990000?style=flat-square)
 ![Anti-Analysis Bypass](https://img.shields.io/badge/Anti--Analysis_Bypass-990000?style=flat-square)
+![Mobile RE](https://img.shields.io/badge/Mobile_RE-FF5722?style=flat-square)
+![Exploit Development](https://img.shields.io/badge/Exploit_Development-5C2D91?style=flat-square)
+![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-880E4F?style=flat-square)
+![Red Teaming](https://img.shields.io/badge/Red_Teaming-B71C1C?style=flat-square)
+![Adversary Emulation](https://img.shields.io/badge/Adversary_Emulation-B71C1C?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-B71C1C?style=flat-square)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-5C2D91?style=flat-square)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-5C2D91?style=flat-square)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-311B92?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network_Security-006064?style=flat-square)
 ![System Hardening](https://img.shields.io/badge/System_Hardening-006064?style=flat-square)
+![Cryptography](https://img.shields.io/badge/Cryptography-006064?style=flat-square)
+![Endpoint Protection](https://img.shields.io/badge/Endpoint_Protection-006064?style=flat-square)
+![OSINT](https://img.shields.io/badge/OSINT-1B5E20?style=flat-square)
+![CTF](https://img.shields.io/badge/CTF-1B5E20?style=flat-square)
 
-**Malware Analysis & RE**
+**Malware Analysis & RE Tools**
 ![Ghidra](https://img.shields.io/badge/Ghidra-990000?style=flat-square)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-990000?style=flat-square)
 ![x64dbg](https://img.shields.io/badge/x64dbg-990000?style=flat-square)
@@ -59,27 +80,39 @@
 ![Phishing Analysis](https://img.shields.io/badge/Phishing_Analysis-311B92?style=flat-square)
 ![Threat Intel](https://img.shields.io/badge/Threat_Intel-311B92?style=flat-square)
 ![DFIR](https://img.shields.io/badge/DFIR-311B92?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident_Response-311B92?style=flat-square)
+![Network Forensics](https://img.shields.io/badge/Network_Forensics-311B92?style=flat-square)
 ![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-311B92?style=flat-square)
 ![Diamond Model](https://img.shields.io/badge/Diamond_Model-311B92?style=flat-square)
+![IDS/IPS](https://img.shields.io/badge/IDS%20%2F%20IPS-311B92?style=flat-square)
 
-**Network Security & Networking**
+**Network Security & Firewalls**
 ![FortiGate](https://img.shields.io/badge/FortiGate_7.6-006064?style=flat-square)
 ![FortiManager](https://img.shields.io/badge/FortiManager-006064?style=flat-square)
+![FortiOS](https://img.shields.io/badge/FortiOS-006064?style=flat-square)
 ![Palo Alto](https://img.shields.io/badge/Palo_Alto-006064?style=flat-square)
-![VPN](https://img.shields.io/badge/IPsec%20%2F%20SSL_VPN-006064?style=flat-square)
+![IPsec VPN](https://img.shields.io/badge/IPsec_VPN-006064?style=flat-square)
+![SSL VPN](https://img.shields.io/badge/SSL_VPN-006064?style=flat-square)
 ![SD-WAN](https://img.shields.io/badge/SD--WAN-006064?style=flat-square)
-![IDS/IPS](https://img.shields.io/badge/IDS%20%2F%20IPS-006064?style=flat-square)
+![Threat Protection](https://img.shields.io/badge/Threat_Protection-006064?style=flat-square)
+![Security Policy Design](https://img.shields.io/badge/Security_Policy_Design-006064?style=flat-square)
 ![Firewalld](https://img.shields.io/badge/Firewalld-006064?style=flat-square)
+
+**Networking**
 ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square)
+![Routing & Switching](https://img.shields.io/badge/Routing_%26_Switching-1BA0D7?style=flat-square)
 ![OSPF](https://img.shields.io/badge/OSPF-1BA0D7?style=flat-square)
 ![EIGRP](https://img.shields.io/badge/EIGRP-1BA0D7?style=flat-square)
 ![NAT](https://img.shields.io/badge/NAT-1BA0D7?style=flat-square)
 ![VLANs](https://img.shields.io/badge/VLANs-1BA0D7?style=flat-square)
 ![STP](https://img.shields.io/badge/STP-1BA0D7?style=flat-square)
 ![QoS](https://img.shields.io/badge/QoS-1BA0D7?style=flat-square)
+![WAN](https://img.shields.io/badge/WAN-1BA0D7?style=flat-square)
+![Wireless](https://img.shields.io/badge/Wireless-1BA0D7?style=flat-square)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1BA0D7?style=flat-square)
+![Enterprise Networking](https://img.shields.io/badge/Enterprise_Networking-1BA0D7?style=flat-square)
 
-**Pentesting & OSINT**
+**Pentesting & OSINT Tools**
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/Metasploit-5C2D91?style=flat-square)
@@ -116,43 +149,38 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Systems, Cloud & Tools**
+**Linux & System Administration**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![SELinux](https://img.shields.io/badge/SELinux-555?style=flat-square)
 ![LVM](https://img.shields.io/badge/LVM-555?style=flat-square)
 ![ACLs](https://img.shields.io/badge/ACLs-555?style=flat-square)
 ![systemd](https://img.shields.io/badge/systemd-555?style=flat-square)
+![Storage & File Systems](https://img.shields.io/badge/Storage_%26_File_Systems-555?style=flat-square)
+![User Management](https://img.shields.io/badge/User_Management-555?style=flat-square)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square)
+![Containers](https://img.shields.io/badge/Containers-2496ED?style=flat-square)
+
+**Windows & Cloud**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![AWS VPC](https://img.shields.io/badge/AWS_VPC-232F3E?style=flat-square)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-232F3E?style=flat-square)
+![Cloud Operations](https://img.shields.io/badge/Cloud_Operations-232F3E?style=flat-square)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-CF0A2C?style=flat-square)
+
+**Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
----
-
-## 🎓 Certifications & Training
-
-| Certification / Program | Issuer | Date |
-|---|---|---|
-| Fortinet NSE 4 (FortiOS) | Fortinet | Apr 2026 |
-| Cisco CyberOps Associate | NTI / Cisco Networking Academy | Sep 2026 |
-| Huawei HCCDA, Tech Essentials | Huawei ICT Academy | Aug 2026 |
-| AWS Academy: Cloud Security, Operations & Foundations | AWS Academy | Oct 2026 |
-| Red Hat System Administration I & II (RH124, RH134) | Red Hat Academy | Apr to May 2026 |
-| TryHackMe Cyber Security 101 | TryHackMe | Oct 2026 |
-| Fortinet Cybersecurity Engineer Track | DEPI / MCIT Egypt | Jun to Dec 2025 |
-| CCNA 200-301 curriculum | Cisco Networking Academy | 2025 |
-| Intensive Cybersecurity & Networking (120 hrs) | ITI | Aug 2026 |
-| Software Engineering Internship | Innovera Academy | Sep 2026 |
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
 ---
 
